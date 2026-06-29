@@ -91,7 +91,7 @@ Add your screenshots in the assets folder, then update the image paths below.
 
 ### Login Page
 
-![Login Page](<img width="2547" height="1364" alt="Screenshot 2026-06-30 012056" src="https://github.com/user-attachments/assets/6cac4e6a-89f9-4c06-942f-3bbce44ed62e" />)
+![Login Page](Screenshot 2026-06-30 021851.png)
 
 ### Admin Dashboard
 

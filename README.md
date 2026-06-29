@@ -94,3 +94,7 @@ This public repository is only for documentation, screenshots, project explanati
 ## Status
 
 The project is currently available as a live demo for preview and presentation purposes.
+
+
+### DEMO LINK 
+https://demo-dashboard-p1.up.railway.app/

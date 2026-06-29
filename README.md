@@ -85,18 +85,6 @@ The reports section summarizes operational data and presents it in a clear way t
 
 The notifications section helps users stay updated with important actions, alerts, and system events.
 
-## Purpose of the Project
-
-The purpose of WARMOPS Dashboard is to demonstrate how an internal operations system can improve work visibility, organize tasks and projects, control user permissions, and provide useful indicators for decision making.
-
-The project was built as a prototype to practice dashboard development, role based access control, operational data visualization, interface design, and workflow organization.
-
-## What I Learned
-
-Through this project, I practiced designing a dashboard structure that separates users based on their responsibilities. I also worked on organizing operational data, building clear interfaces, managing permissions, and presenting information in a way that helps users understand system activity quickly.
-
-The project helped me understand that a dashboard is not only about charts. It is about showing the right information to the right user at the right time.
-
 ## Source Code
 
 The source code is private to protect the implementation and prevent unauthorized copying.

@@ -85,38 +85,6 @@ The reports section summarizes operational data and presents it in a clear way t
 
 The notifications section helps users stay updated with important actions, alerts, and system events.
 
-## Screenshots
-
-Add your screenshots in the assets folder, then update the image paths below.
-
-### Login Page
-
-![Login Page](Screenshot 2026-06-30 021851.png)
-
-### Admin Dashboard
-
-![Admin Dashboard](<img width="2547" height="1364" alt="Screenshot 2026-06-30 012056" src="https://github.com/user-attachments/assets/6cac4e6a-89f9-4c06-942f-3bbce44ed62e" />)
-
-### Embloyee Dashboard
-
-![Embloyee Dashboard](<img width="2547" height="1364" alt="Screenshot 2026-06-30 012056" src="https://github.com/user-attachments/assets/6cac4e6a-89f9-4c06-942f-3bbce44ed62e" />)
-
-### Projects View
-
-![Projects View](assets/projects_view.png)
-
-### User Management
-
-![User Management](assets/user_management.png)
-
-### Reports View
-
-![Reports View](assets/reports_view.png)
-
-### Notifications View
-
-![Notifications View](assets/notifications_view.png)
-
 ## Purpose of the Project
 
 The purpose of WARMOPS Dashboard is to demonstrate how an internal operations system can improve work visibility, organize tasks and projects, control user permissions, and provide useful indicators for decision making.
